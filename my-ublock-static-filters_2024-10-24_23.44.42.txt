@@ -20,3 +20,13 @@ www.24h.com.vn##.padd-t-20.mar-auto.bg-white.mw-1100.footer-24h
 
 ! 24 thg 10, 2024 https://vnexpress.net
 vnexpress.net##.banner-top-home.banner-ads.section-ads-top.section
+
+! Oct 25, 2024 https://njav.tv
+njav.tv##.d-lg-block.d-none.ad-floating [href] > [src]
+njav.tv##.col-sidebar.col
+
+! Oct 25, 2024 https://avpink28.com
+avpink28.com##.fg-col3.fg-ready.fg-loaded-fade-in.fg-dark.fg-masonry.fg-gutter-none.fg-center.foogallery-lightbox-none.foogallery-masonry.foogallery-container.foogallery
+avpink28.com##.with-sidebar-right.widget-area
+avpink28.com##.fg-ready.fg-loaded-fade-in.fg-loading-default.fg-light.fg-carousel.fg-carousel-hide-progress-bar.fg-carousel-hide-pagination.fg-carousel-hide-nav-arrows.foogallery-lightbox-foobox.foogallery-carousel.foogallery-container.foogallery
+
